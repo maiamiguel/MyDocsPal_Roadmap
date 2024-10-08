@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "title": "Adding a map",
+    "localizedTitle": [
+      {
+        "language": "en",
+        "value": "Adding a map"
+      }
+    ],
+    "status": "planned",
+    "localizedStatus": [
+      {
+        "language": "en",
+        "value": "Planned"
+      }
+    ],
+    "description": "some description",
+    "localizedDescription": [
+      {
+        "language": "en",
+        "value": "Adding a map to view nearby places"
+      }
+    ]
+  }
+]
