@@ -22,5 +22,29 @@
         "value": "Adding a map to view nearby places"
       }
     ]
+  },
+  {
+    "id": "1",
+    "title": "Adding a map Test 2",
+    "localizedTitle": [
+      {
+        "language": "en",
+        "value": "Adding a map"
+      }
+    ],
+    "status": "planned",
+    "localizedStatus": [
+      {
+        "language": "en",
+        "value": "Planned"
+      }
+    ],
+    "description": "some description teste 2",
+    "localizedDescription": [
+      {
+        "language": "en",
+        "value": "Adding a map to view nearby places test 2"
+      }
+    ]
   }
 ]
